@@ -5,5 +5,5 @@ export default function Home() {
     <Layout title="Home">
       <p className="text-4xl">Welcome to Nextjs</p>
     </Layout>
-  )
+  );
 }
